@@ -1,0 +1,26 @@
+{
+  "name": "qq-music-desktop",
+  "version": "1.0.0",
+  "description": "QQ Music Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totorozhao/qq-music-desktop.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "zhaojj",
+    "emain": "1426226003@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/totorozhao/qq-music-desktop/issues"
+  },
+  "homepage": "https://github.com/totorozhao/qq-music-desktop#readme",
+  "dependencies": {
+    "electron": "^1.7.8"
+  }
+}
